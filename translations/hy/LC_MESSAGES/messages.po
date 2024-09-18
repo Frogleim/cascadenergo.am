@@ -42,8 +42,17 @@ msgstr "Ալֆա ՍՊԸ"
 msgid "Arpa Shin Ltd"
 msgstr "Արփա Շին ՍՊԸ"
 
-msgid "BIG Ltd"
-msgstr "ԲԻԳ ՍՊԸ"
+msgid "BIG Enerego Ltd"
+msgstr "ԲԻԳ Էներգո ՍՊԸ"
+
+
+msgid "Energoshin Ltd"
+msgstr "Էներգոշին ՍՊԸ"
+
+
+msgid "Griboyedov 58, Yerevan, TIN 00142697"
+msgstr "Գրիբոյեդով 58, ՀՎՀՀ 00142697"
+
 
 
 msgid "Renkas Ltd"

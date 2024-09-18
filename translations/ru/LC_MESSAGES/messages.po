@@ -34,8 +34,8 @@ msgstr "Альфа ООО"
 msgid "Arpa Shin Ltd"
 msgstr "Арпа Шин ООО"
 
-msgid "BIG Ltd"
-msgstr "БИГ ООО"
+msgid "BIG Enerego Ltd"
+msgstr "БИГ Энерго ООО"
 
 
 msgid "Renkas Ltd"
@@ -63,6 +63,11 @@ msgid "Nelly-Levon Ltd"
 msgstr "Нели-Левон ООО"
 
 
+msgid "Griboyedov 58, Yerevan, TIN 00142697"
+msgstr "Грибоедов 58, ИНН 00142697"
+
+msgid "Energoshin Ltd"
+msgstr "Энергошин ООО"
 
 
 msgid "We offer the following services"
