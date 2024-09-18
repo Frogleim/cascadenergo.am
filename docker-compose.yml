@@ -19,4 +19,7 @@ services:
       - .:/app
     environment:
       FLASK_ENV: development
+
     command: flask run --host=0.0.0.0
+    expose:
+      - "5000"
